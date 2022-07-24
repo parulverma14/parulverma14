@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parulverma14
 - 👀 I’m interested in getting the job done.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently learning Data Analysis and skilled in -Python, Numpy, Pandas, MatplotLib, Seaborn, SQL Database- MySQL
 - 💞️ I’m looking to collaborate on Data Analysis projects using Python and its libraries.
 - 📫 You can email me on parul.gunjan14@gmail.com
 
